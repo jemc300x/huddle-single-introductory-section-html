@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Huddle landing page single introductory section
+=======
+#Huddle landing page single introductory section
+>>>>>>> b62bfb481036dd55429558544bbfc1cd58cf6cb7
 
 This is a challenge of Frontend Mentor
 
