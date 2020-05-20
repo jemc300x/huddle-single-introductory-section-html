@@ -1,4 +1,4 @@
-#Huddle landing page single introductory section
+# Huddle landing page single introductory section
 
 This is a challenge of Frontend Mentor
 
